@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="368" height="204" viewBox="0 0 368 204">
+  <defs>
+    <filter id="Line_5" x="207" y="0" width="60" height="204" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_2" x="0" y="116" width="368" height="60" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_3" x="0" y="97" width="368" height="60" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-3"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_4" x="0" y="77" width="368" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-4"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_5-2" x="0" y="58" width="368" height="60" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-5"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_6" x="0" y="38" width="368" height="61" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-6"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_6-2" x="0" y="56" width="368" height="60.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-7"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_7" x="0" y="19" width="368" height="61" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-8"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_8" x="0" y="0" width="368" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-9"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Chart_4" data-name="Chart 4" transform="translate(7 -22)">
+    <g id="Values_and_months_" data-name="Values and months " transform="translate(5 44)">
+      <text id="_130" data-name="130" transform="translate(0 6)" fill="#9a9a9a" font-size="6" font-family="Poppins-Regular, Poppins" letter-spacing="0.006em"><tspan x="0" y="0">400</tspan></text>
+      <text id="_120" data-name="120" transform="translate(0 25)" fill="#9a9a9a" font-size="6" font-family="Poppins-Regular, Poppins" letter-spacing="0.006em"><tspan x="0" y="0">300</tspan></text>
+      <text id="_110" data-name="110" transform="translate(0 44)" fill="#9a9a9a" font-size="6" font-family="Poppins-Regular, Poppins" letter-spacing="0.006em"><tspan x="0" y="0">200</tspan></text>
+      <text id="_100" data-name="100" transform="translate(1 64)" fill="#9a9a9a" font-size="6" font-family="Poppins-Regular, Poppins" letter-spacing="0.006em"><tspan x="0" y="0">100</tspan></text>
+      <text id="_90" data-name="90" transform="translate(3 83)" fill="#9a9a9a" font-size="6" font-family="Poppins-Regular, Poppins" letter-spacing="0.006em"><tspan x="0" y="0">80</tspan></text>
+      <text id="_80" data-name="80" transform="translate(3 102)" fill="#9a9a9a" font-size="6" font-family="Poppins-Regular, Poppins" letter-spacing="0.006em"><tspan x="0" y="0">60</tspan></text>
+      <text id="_70" data-name="70" transform="translate(3 121)" fill="#9a9a9a" font-size="6" font-family="Poppins-Regular, Poppins" letter-spacing="0.006em"><tspan x="0" y="0">40</tspan><tspan font-family="Poppins-Regular"><tspan x="0" y="13"></tspan></tspan></text>
+      <text id="_60" data-name="60" transform="translate(3 141)" fill="#9a9a9a" font-size="6" font-family="Poppins-Regular, Poppins" letter-spacing="0.006em"><tspan x="0" y="0">20</tspan></text>
+      <text id="JUL" transform="translate(42 169)" fill="#dcdcdc" font-size="10" font-family="NunitoSans-Bold, Nunito Sans" font-weight="700" letter-spacing="0.006em"><tspan x="-22.769" y="0">CRITICAL</tspan></text>
+      <text id="AUG" transform="translate(93 169)" fill="#dcdcdc" font-size="10" font-family="NunitoSans-Bold, Nunito Sans" font-weight="700" letter-spacing="0.006em"><tspan x="0" y="0">HIGH</tspan></text>
+      <text id="SEP" transform="translate(149 170)" fill="#dcdcdc" font-size="10" font-family="NunitoSans-Bold, Nunito Sans" font-weight="700" letter-spacing="0.006em"><tspan x="0" y="0">MEDIUM</tspan></text>
+      <text id="OCT" transform="translate(223 169)" fill="#dcdcdc" font-size="10" font-family="NunitoSans-Bold, Nunito Sans" font-weight="700" letter-spacing="0.006em"><tspan x="0" y="0">LOW</tspan></text>
+      <text id="NOV" transform="translate(259 169)" fill="#dcdcdc" font-size="10" font-family="NunitoSans-Bold, Nunito Sans" font-weight="700" letter-spacing="0.006em"><tspan x="0" y="0">INFORMATIONAL</tspan></text>
+    </g>
+    <g id="Lines" transform="translate(23 50.846)">
+      <rect id="Line_1" data-name="Line 1" height="144" transform="translate(6 0.154)" fill="#1d8cf8" opacity="0.1"/>
+      <rect id="Line_2-2" data-name="Line 2" height="144" transform="translate(56 0.154)" fill="#1d8cf8" opacity="0.1"/>
+      <rect id="Line_3-2" data-name="Line 3" height="144" transform="translate(106 0.154)" fill="rgba(29,140,248,0.1)"/>
+      <g transform="matrix(1, 0, 0, 1, -30, -28.85)" filter="url(#Line_5)">
+        <rect id="Line_5-3" data-name="Line 5" height="144" transform="translate(237 29)" fill="rgba(29,140,248,0.1)"/>
+      </g>
+      <rect id="Line_1-2" data-name="Line 1" width="308" height="2" transform="translate(0 135.153)" fill="rgba(29,140,248,0.1)"/>
+      <g transform="matrix(1, 0, 0, 1, -30, -28.85)" filter="url(#Line_2)">
+        <rect id="Line_2-3" data-name="Line 2" width="308" transform="translate(30 145)" fill="rgba(29,140,248,0.1)"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -30, -28.85)" filter="url(#Line_3)">
+        <rect id="Line_3-3" data-name="Line 3" width="308" transform="translate(30 126)" fill="rgba(29,140,248,0.1)"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -30, -28.85)" filter="url(#Line_4)">
+        <rect id="Line_4-2" data-name="Line 4" width="308" height="2" transform="translate(30 106)" fill="rgba(29,140,248,0.1)"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -30, -28.85)" filter="url(#Line_5-2)">
+        <rect id="Line_5-4" data-name="Line 5" width="308" transform="translate(30 87)" fill="rgba(29,140,248,0.1)"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -30, -28.85)" filter="url(#Line_6)">
+        <rect id="Line_6-3" data-name="Line 6" width="308" height="1" transform="translate(30 67)" fill="rgba(29,140,248,0.1)"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -30, -28.85)" filter="url(#Line_6-2)">
+        <rect id="Line_6-4" data-name="Line 6" width="308" height="0.5" transform="translate(30 85)" fill="#c5cbd7"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -30, -28.85)" filter="url(#Line_7)">
+        <rect id="Line_7-2" data-name="Line 7" width="308" height="1" transform="translate(30 48)" fill="rgba(29,140,248,0.1)"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -30, -28.85)" filter="url(#Line_8)">
+        <rect id="Line_8-2" data-name="Line 8" width="308" height="2" transform="translate(30 29)" fill="rgba(29,140,248,0.1)"/>
+      </g>
+    </g>
+    <g id="Bars" transform="translate(31.693 52.22)">
+      <path id="Bar_1" data-name="Bar 1" d="M0,54.676V0H30V54.676" transform="translate(0 0)" fill="#f93c65"/>
+      <path id="Bar_2" data-name="Bar 2" d="M0,28.827V0H30V28.827" transform="translate(62.446 25.984)" fill="#d9c594"/>
+      <path id="Bar_3" data-name="Bar 3" d="M0,39.836V0H30V39.836" transform="translate(128.416 55.318)" fill="#86bcb4"/>
+      <path id="Bar_4" data-name="Bar 4" d="M0,76.975V0H30V76.975" transform="translate(192.861 54.789)" fill="#00b69b"/>
+      <path id="Bar_5" data-name="Bar 5" d="M0,46.065V0H30V46.065" transform="translate(257.307 54.789)" fill="#c8c8c8"/>
+    </g>
+  </g>
+</svg>

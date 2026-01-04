@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="288.486" height="212.238" viewBox="0 0 288.486 212.238">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffcf1b"/>
+      <stop offset="1" stop-color="#ff881b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#46cefc"/>
+      <stop offset="1" stop-color="#8420ca"/>
+    </linearGradient>
+  </defs>
+  <g id="chart_2" data-name="chart 2" transform="translate(0 3)">
+    <path id="Path_528" data-name="Path 528" d="M-991.216-2359.214l-69.24,29.639,13.328,62.461,55.1,30.037,81.159-17.306-6.167-76.584Z" transform="translate(1126.674 2392.449)" fill="none" stroke="#003b87" stroke-width="1"/>
+    <g id="chart_description" data-name="chart description">
+      <text id="Assets" transform="translate(110.189 -3)" fill="#dcdcdc" font-size="12" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="6.334" y="12">Assets</tspan></text>
+      <text id="Training" transform="translate(1.123 45.406)" fill="#dcdcdc" font-size="12" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="2.962" y="12">Training</tspan></text>
+      <text id="Security" transform="translate(219.486 45.406)" fill="#dcdcdc" font-size="12" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="3.642" y="12">Security</tspan></text>
+      <text id="Compliance" transform="translate(219.486 138.89)" fill="#dcdcdc" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="2.616" y="13">Compliance</tspan></text>
+      <text id="Threats_" data-name="Threats
+" transform="translate(108.189 181.625)" fill="#dcdcdc" font-size="12" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="6.168" y="12">Threats</tspan></text>
+      <text id="Risks" transform="translate(16.039 133.548)" fill="#dcdcdc" font-size="12" font-family="NunitoSans-Regular, Nunito Sans"><tspan x="3.141" y="12">Risks</tspan></text>
+      <g id="Group_468" data-name="Group 468" transform="translate(0 196.761)">
+        <path id="Polygon_13" data-name="Polygon 13" d="M2.226,0,4.452,4.452H0Z" transform="translate(4.452 6.232) rotate(-90)" fill="#7645d4"/>
+        <path id="Polygon_14" data-name="Polygon 14" d="M2.226,0,4.452,4.452H0Z" transform="translate(4.452 1.781) rotate(90)" fill="#7645d4" opacity="0.9"/>
+        <path id="Polygon_15" data-name="Polygon 15" d="M2.226,0,4.452,4.452H0Z" transform="translate(0 8.013) rotate(-90)" fill="#7645d4"/>
+        <path id="Polygon_16" data-name="Polygon 16" d="M2.226,0,4.452,4.452H0Z" transform="translate(0 4.452) rotate(-90)" fill="#7645d4"/>
+        <path id="Polygon_17" data-name="Polygon 17" d="M2.226,0,4.452,4.452H0Z" transform="translate(8.903) rotate(90)" fill="#7645d4"/>
+        <path id="Polygon_18" data-name="Polygon 18" d="M2.226,0,4.452,4.452H0Z" transform="translate(8.903 3.561) rotate(90)" fill="#7645d4"/>
+      </g>
+      <g id="Group_469" data-name="Group 469" transform="translate(204 196.019)">
+        <path id="Polygon_13-2" data-name="Polygon 13" d="M2.226,0,4.452,4.452H0Z" transform="translate(4.452 6.232) rotate(-90)" fill="#ff951b"/>
+        <path id="Polygon_14-2" data-name="Polygon 14" d="M2.226,0,4.452,4.452H0Z" transform="translate(4.452 1.781) rotate(90)" fill="#ff951b" opacity="0.9"/>
+        <path id="Polygon_15-2" data-name="Polygon 15" d="M2.226,0,4.452,4.452H0Z" transform="translate(0 8.013) rotate(-90)" fill="#ff8e1b"/>
+        <path id="Polygon_16-2" data-name="Polygon 16" d="M2.226,0,4.452,4.452H0Z" transform="translate(0 4.452) rotate(-90)" fill="#ff951b"/>
+        <path id="Polygon_17-2" data-name="Polygon 17" d="M2.226,0,4.452,4.452H0Z" transform="translate(8.903 0) rotate(90)" fill="#ff951b"/>
+        <path id="Polygon_18-2" data-name="Polygon 18" d="M2.226,0,4.452,4.452H0Z" transform="translate(8.903 3.561) rotate(90)" fill="#ff951b"/>
+      </g>
+      <text id="Present" transform="translate(20.477 194.09)" fill="#dcdcdc" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="1.536" y="12">Present</tspan></text>
+      <text id="Target" transform="translate(223.907 194.238)" fill="#dcdcdc" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="2.618" y="12">Target</tspan></text>
+    </g>
+    <g id="Top_paths" data-name="Top paths" transform="translate(60.118 24.854)">
+      <path id="Path_530" data-name="Path 530" d="M-994.061-2371.012l-74.993,35.682,8.6,70.7h0L-993.905-2230l81.171-27.669-6.564-77.42Z" transform="translate(1069.055 2371.012)" fill="url(#linear-gradient)"/>
+      <path id="Path_529" data-name="Path 529" d="M-991.719-2359.542l-69.457,30.116,13.885,62.61,55.62,30.035,80.593-17.7-6.239-76.786Z" transform="translate(1066.773 2367.69)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <g id="back_paths" data-name="back paths" transform="translate(51.643 14.182)">
+      <g id="Path_524" data-name="Path 524" transform="translate(32.009 62.633)" fill="none">
+        <path d="M-.018-4.15,51.459-30.215l51.77,25.862-.052,51.7L51.593,73.079-.042,47.327Z" stroke="none"/>
+        <path d="M 51.46192169189453 -29.09526824951172 L 0.9814071655273438 -3.535251617431641 L 0.9580535888671875 46.70871353149414 L 51.59304046630859 71.96164703369141 L 102.1780395507813 46.72740173339844 L 102.2285995483398 -3.73455810546875 L 51.46192169189453 -29.09526824951172 M 51.45889282226563 -30.21461486816406 L 103.2292251586914 -4.352531433105469 L 103.1774215698242 47.34638595581055 L 51.59309387207031 73.07913970947266 L -0.042236328125 47.32731246948242 L -0.01830291748046875 -4.149944305419922 L 51.45889282226563 -30.21461486816406 Z" stroke="none" fill="#e6d9d9"/>
+      </g>
+      <g id="Path_526" data-name="Path 526" transform="translate(55.451 86.373)" fill="none">
+        <path d="M-.029-15.969,27.016-29.663l1.09-.552L56.4-16.08l-.028,28.256L28.179,26.241-.042,12.166Z" stroke="none"/>
+        <path d="M 28.10902214050293 -29.09526062011719 L 27.46789360046387 -28.77062797546387 L 0.9705581665039063 -15.35412216186523 L 0.9580535888671875 11.54776859283447 L 28.17927360534668 25.12366104125977 L 55.37365341186523 11.55778980255127 L 55.40072250366211 -15.46157646179199 L 28.10902214050293 -29.09526062011719 M 28.10599327087402 -30.21460914611816 L 56.40134429931641 -16.07954788208008 L 56.3730354309082 12.17677116394043 L 28.17933464050293 26.24115180969238 L -0.042236328125 12.16636085510254 L -0.02915573120117188 -15.96881866455078 L 27.01616477966309 -29.66278839111328 L 28.10599327087402 -30.21460914611816 Z" stroke="none" fill="#e6d9d9"/>
+      </g>
+      <line id="Line_291" data-name="Line 291" x2="166.935" y2="83.112" transform="translate(0.355 42.292)" fill="none" stroke="#e6d9d9" stroke-width="1"/>
+      <line id="Line_292" data-name="Line 292" x1="166.935" y2="83.112" transform="translate(0.355 42.292)" fill="none" stroke="#e6d9d9" stroke-width="1"/>
+      <path id="Path_527" data-name="Path 527" d="M-.758.727-.564,167.78" transform="translate(84.225 -0.541)" fill="none" stroke="#e6d9d9" stroke-width="1"/>
+      <g id="Path_525" data-name="Path 525" transform="translate(0.042 30.215)" fill="none">
+        <path d="M0,12.1,83.573-30.215l84.052,41.989-.084,83.936-83.75,41.779L-.042,95.679Z" stroke="none"/>
+        <path d="M 83.57600402832031 -29.09526824951172 L 0.9963226318359375 12.71764373779297 L 0.958038330078125 95.06082153320313 L 83.79080963134766 136.3715515136719 L 166.541748046875 95.09137725830078 L 166.6246185302734 12.39200592041016 L 83.57600402832031 -29.09526824951172 M 83.57297515869141 -30.21460723876953 L 167.6252288818359 11.77404022216797 L 167.5411224365234 95.71036529541016 L 83.79086303710938 137.4890594482422 L -0.042236328125 95.67942810058594 L -0.003387451171875 12.10295104980469 L 83.57297515869141 -30.21460723876953 Z" stroke="none" fill="#e6d9d9"/>
+      </g>
+    </g>
+  </g>
+</svg>
